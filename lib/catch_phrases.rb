@@ -9,6 +9,6 @@ def toadstool
 end
 
 def link
-  slogan "It's Dangerous To Go Alone! Take This."
+  slogan = "It's Dangerous To Go Alone! Take This."
   puts slogan
 end
