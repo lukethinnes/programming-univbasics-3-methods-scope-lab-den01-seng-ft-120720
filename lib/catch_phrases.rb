@@ -12,3 +12,9 @@ def link
   slogan = "It's Dangerous To Go Alone! Take This."
   puts slogan
 end
+
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
+end
